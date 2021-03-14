@@ -1,0 +1,2 @@
+0.1369 submit_kde_rfr_11.13_13.48 drop_columns=['V5','V9','V11','V17','V22','V35','target']
+0.1415 submit_kde_lgbm_11.14_20.03 drop_columns = ['V5','V9','V11','V17','V22','V35','target']
